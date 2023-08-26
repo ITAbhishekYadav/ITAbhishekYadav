@@ -21,7 +21,7 @@
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
-- 💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
+- 💬 Ask me about **AWS Docker Jenkins Linux Terraform Ansible Kubernetes**
 
 - 📫 Reach out to me at **abhishekyadavmzp7@gmail.com**
 
