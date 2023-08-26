@@ -17,7 +17,7 @@
 
 - 🌱 I'm a **Learner** 
 
-- 🔭 Exploring content creation
+- 🔭 Exploring Always New Things
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
